@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "7/24 çalışan Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "0zn6",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.12.0",
+    "dotenv": "^16.3.1"
+  }
+}
